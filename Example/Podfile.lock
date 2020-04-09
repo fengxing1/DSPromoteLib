@@ -1,0 +1,16 @@
+PODS:
+  - DSPromoteLib (0.1.0)
+
+DEPENDENCIES:
+  - DSPromoteLib (from `../`)
+
+EXTERNAL SOURCES:
+  DSPromoteLib:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  DSPromoteLib: 149dbf16c39ac95c79e88d5adff55c00ad86c873
+
+PODFILE CHECKSUM: 046543f628ac1a8add15679342b5c5e42f7967db
+
+COCOAPODS: 1.9.1
